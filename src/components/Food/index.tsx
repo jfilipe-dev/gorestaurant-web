@@ -26,9 +26,7 @@ const Food: React.FC<IProps> = ({
 }: IProps) => {
   const [isAvailable, setIsAvailable] = useState(food.available);
 
-  async function toggleAvailable(): Promise<void> {
-    // TODO UPDATE STATUS (available)
-  }
+  async function toggleAvailable(): Promise<void> {}
 
   function setEditingFood(): void {
     handleEditFood(food);
