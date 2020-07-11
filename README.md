@@ -2,7 +2,7 @@
 #### A web application for managing dishes.
 
 ### 📺 Preview
-![preview-gorestaurant-web](https://user-images.githubusercontent.com/55659197/86513420-7155e500-bde0-11ea-9030-eadbde380ce5.gif)
+<img src="https://github.com/jfilipe-dev/previews/blob/master/gorestaurant-web.gif?raw=true" width="720">
 
 
 ### 👨🏻‍💻 Stack and extensions
